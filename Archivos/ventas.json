@@ -1,0 +1,32 @@
+[
+    {
+        "id_venta": 477888,
+        "monto_venta": 80000.0,
+        "cliente": {
+            "id_cliente": "787978",
+            "nombre_cliente": "Julio",
+            "direccion_cliente": "cali",
+            "telefono_cliente": "314455"
+        }
+    },
+    {
+        "id_venta": 141516,
+        "monto_venta": 900000.0,
+        "cliente": {
+            "id_cliente": "12345",
+            "nombre_cliente": "Roberto",
+            "direccion_cliente": "avenida",
+            "telefono_cliente": "314455"
+        }
+    },
+    {
+        "id_venta": 4042,
+        "monto_venta": 450000.0,
+        "cliente": {
+            "id_cliente": "121314",
+            "nombre_cliente": "Santiago",
+            "direccion_cliente": "calle 40",
+            "telefono_cliente": "320320"
+        }
+    }
+]

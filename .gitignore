@@ -1,0 +1,30 @@
+
+
+# Directorios y archivos generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
+# Archivos de registro y salida
+*.log
+
+# Archivos de caché de dependencias
+.cache/
+.pytest_cache/
+
+# Archivos y directorios de construcción
+build/
+dist/
+*.egg-info/
+
+# Archivos y directorios específicos de IDEs o editores
+.vscode/
+
+# Archivos de configuración de herramientas específicas
+.idea/
+
+# Archivos de registro de cobertura de prueba
+.coverage

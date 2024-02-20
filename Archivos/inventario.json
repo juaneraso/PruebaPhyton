@@ -1,0 +1,14 @@
+[
+    {
+        "id_inventario": "12345",
+        "producto_id": "111",
+        "cantidad": "1000",
+        "ubicacion": "bodega"
+    },
+    {
+        "id_inventario": "111",
+        "producto_id": "20",
+        "cantidad": "200",
+        "ubicacion": "casa"
+    }
+]
